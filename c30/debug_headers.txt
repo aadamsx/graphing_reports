@@ -1,0 +1,7 @@
+Month column index: 0
+Detected columns:
+  Office: Office
+  Data center: Data center
+  General: General
+  Financial: Financial
+Wrote c30_datacenters_vs_office.csv and c30_datacenters_vs_office.png
